@@ -8,3 +8,9 @@
 	url = https://github.com/tguillerme/disprity
 	shallow = true
 	registered = true
+[submodule "spptest"]
+	path = spptest
+	url = https://github.com/myllym/spptest
+	shallow = true
+	branch = no_fastdepth
+	registered = false
