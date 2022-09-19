@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "dispRity"]
-	path = dispRity
-	url = https://github.com/tguillerme/disprity
-	shallow = true
-	registered = true
 [submodule "spptest"]
 	path = spptest
 	url = https://github.com/myllym/spptest
