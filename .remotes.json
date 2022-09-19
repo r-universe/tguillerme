@@ -1,9 +1,0 @@
-[
-  {
-    "package": "spptest",
-    "url": "https://github.com/myllym/spptest",
-    "via": ["dispRity"],
-    "branch": "no_fastdepth",
-    "from": "dispRity"
-  }
-]

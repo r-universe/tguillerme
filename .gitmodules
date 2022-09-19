@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "spptest"]
-	path = spptest
-	url = https://github.com/myllym/spptest
-	shallow = true
-	branch = no_fastdepth
-	registered = false
